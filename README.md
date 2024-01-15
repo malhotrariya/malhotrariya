@@ -1,4 +1,4 @@
-# Hello World 👋
+## Hello World 👋
 
 I'm Riya, a passionate individual navigating sustainability at the nexus of innovative technology, applied research, performance, and durability. Aspiring to evolve as a data-driven sustainability expert, I'm on a journey to wield the power of analytics and decode the language of environmental impact to transform numbers into a symphony of eco-conscious solutions.
 
@@ -15,5 +15,5 @@ I'm Riya, a passionate individual navigating sustainability at the nexus of inno
 
 **NIT Bhopal, India,** B.Arch
 
-### Let's Connect?
+## Let's Connect?
 riyamalh@andrew.cmu.edu
