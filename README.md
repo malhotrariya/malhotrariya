@@ -8,8 +8,7 @@ With three years of professional experience in the Energy and Environment sector
 - Managing client relations and developing sustainability roadmaps
 - Supporting training and capacity building across organizations
 
-### Core Interest 
-Building Science + Technology, Circularity in Built Environment, Data Analysis, Policy and Research: Energy & Environment, Health and well-being, Sustainability and Material Use, Community Development
+**Core Interest:** Building Science + Technology, Circularity in Built Environment, Data Analysis, Policy and Research: Energy & Environment, Health and well-being, Sustainability and Material Use, Community Development
 
 ## Education
 **Carnegie Mellon University, US,** MS Building Performance and Diagnostics
