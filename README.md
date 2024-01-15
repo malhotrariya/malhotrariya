@@ -13,5 +13,7 @@ With over 3 years of professional experience in the Energy and Environment secto
 
 ## Education
 **Carnegie Mellon University, US,** MS Building Performance and Diagnostics
-
 **NIT Bhopal, India,** B.Arch
+
+## Let's Connect?
+riyamalh@andrew.cmu.edu
