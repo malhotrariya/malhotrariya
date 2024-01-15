@@ -1,6 +1,7 @@
 ### Hello World 👋
 
-##About myself
+## About myself
+
 I'm Riya, currently pursuing master's in Building Performance and Diagnostics at Carnegie Mellon University School of Architecture in the United States. 
 
 Before diving into my graduate studies, I worked as both an architect and a research professional in India's energy and environment sector. My role as a Research Associate at The Energy and Resources Institute (TERI) allowed me to actively contribute to policy development, consultancy, and research in the field of building sciences and climate change. 
