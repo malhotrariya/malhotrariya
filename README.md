@@ -3,7 +3,7 @@
 I'm Riya, a passionate individual navigating sustainability at the nexus of innovative technology, applied research, performance, and durability. Aspiring to evolve as a data-driven sustainability expert, I aim to use analytics to turn numbers into environmentally conscious solutions.
 
 ## Experience 
-**With three years of professional experience in the Energy and Environment sector, my areas of expertise include:**
+**With three years of professional experience in the Energy and Environment sector, my areas of experience include:**
 - Overseeing Sustainability Projects from concept to execution - policy research, building technology, data analysis and design
 - Managing client relations and developing sustainability roadmaps
 - Supporting training and capacity building across organizations
@@ -13,7 +13,7 @@ I'm Riya, a passionate individual navigating sustainability at the nexus of inno
 
 **NIT Bhopal, India,** B.Arch
 
-## Core interest 
+## Core Interest 
 Building Science + Technology, Circularity in Built Environment, Data Analysis, Policy and Research: Energy & Environment, Health and well-being, Sustainability and Material Use, Community Development
 
 ## Let's Connect?
