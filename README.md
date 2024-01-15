@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hello World 👋
 
 ## About myself
 
@@ -16,5 +16,5 @@ With over 3 years of professional experience in the Energy and Environment secto
 
 **NIT Bhopal, India,** B.Arch
 
-# Let's Connect?
+### Let's Connect?
 riyamalh@andrew.cmu.edu
