@@ -8,12 +8,13 @@ I'm Riya, a passionate individual navigating sustainability at the nexus of inno
 - Managing client relations and developing sustainability roadmaps
 - Supporting training and capacity building across organizations
 
-**Core interest:** Building Science + Technology, Circularity in Built Environment, Data Analysis, Policy and Research: Energy & Environment, Health and well-being, Sustainability and Material Use, Community Development
-
 ## Education
 **Carnegie Mellon University, US,** MS Building Performance and Diagnostics
 
 **NIT Bhopal, India,** B.Arch
+
+## Core interest 
+Building Science + Technology, Circularity in Built Environment, Data Analysis, Policy and Research: Energy & Environment, Health and well-being, Sustainability and Material Use, Community Development
 
 ## Let's Connect?
 riyamalh@andrew.cmu.edu
