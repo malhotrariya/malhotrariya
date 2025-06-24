@@ -9,7 +9,7 @@ With over four years of professional experience in the Energy and Environment se
 - Supporting training and capacity building across organizations
 
 ### Core Interest
-**Building Science + Technology | Circularity in Built Environment | Data Analysis | Policy and Research: Energy & Environment | Health and well-being | Sustainability and Material Use | Community Development**
+**Building Science + Technology | Circularity in Built Environment | Data Analysis | Policy and Research: Energy & Environment | Health and well-being | Sustainability and Material Use | Community Development | Energy Modeling**
 
 ## Education
 **Carnegie Mellon University, US,** MS Building Performance and Diagnostics
@@ -17,4 +17,4 @@ With over four years of professional experience in the Energy and Environment se
 **NIT Bhopal, India,** B.Arch
 
 ## Let's Connect?
-riyamalh@andrew.cmu.edu
+riyamalhotrawork@gmail.com
